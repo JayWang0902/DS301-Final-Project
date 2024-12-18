@@ -100,8 +100,9 @@ Below is a graph comparing the predicted stock prices with the actual stock pric
 
 ![Performance Graph](./images/JPM.png)
 
+### Bad case
 
-
+![Performance Graph](./images/bad.png)
 
 ## Installation
 
